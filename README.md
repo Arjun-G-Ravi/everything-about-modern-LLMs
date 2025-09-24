@@ -1,7 +1,8 @@
-# Outline for Mastering LLM
+# Outline for Mastering LLMs (with Subtopics)
 
-![alt text](modern-llm.png)
-## 0. Prerequicites
+![[modern-llm.png]]
+
+## 0. Prerequisites
 - Python; Mathematics; ML; DL; 
 - Absolute NLP Theory: https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
 
@@ -188,7 +189,7 @@
 - **Distillation**
 - **Auxiliary heads**
 
-## 5. Fine-Tuning & Adaptation
+## 5. Fine-Tuning & Preference Learning
 - Finetuning
 	- Full model finetuning
 	- Domain adaptation
@@ -202,7 +203,7 @@
 		- https://lightning.ai/pages/community/lora-insights/
 		- Low-rank adaptation techniques
 		- Efficiency gains
-- Preference optimization
+- Preference learning
 	- Reinforcement Learning from Human Feedback (RLHF)
 		- https://huggingface.co/blog/rlhf
 		- https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives
@@ -215,7 +216,7 @@
 - Prompting
 	- Prompt engineering
 	- Zero-shot, few-shot, and instruction prompting
-- Safety policies
+- AI Safety
 	- Alignment techniques
 	- AI Interpretability
 		- Circuits theory
@@ -264,8 +265,7 @@
 - https://parlance-labs.com/education/
 - https://docs.unsloth.ai/
 - https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html
-- https://machinelearningmastery.com/the-roadmap-for-mastering-language-models-in-2025/ - used to write this; continue from deploy as it was not added here(things like langchain)
-- https://www.youtube.com/watch?v=p3sij8QzONQ
+- https://machinelearningmastery.com/the-roadmap-for-mastering-language-models-in-2025/ - continue from deploy as it was not added here(things like langchain)
 
 # Popular tutorials/ projects
 - Make a tokenizer from scratch
