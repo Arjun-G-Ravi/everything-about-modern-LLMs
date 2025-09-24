@@ -1,0 +1,2 @@
+- how data is collected, cleaned, and preprocessed for training LLMs
+- tokenization
