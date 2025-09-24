@@ -1,7 +1,6 @@
 # Outline for Mastering LLMs (with Subtopics)
 
-![[modern-llm.png]]
-
+![alt text](images/modern-llm.png)
 ## 0. Prerequisites
 - Python; Mathematics; ML; DL; 
 - Absolute NLP Theory: https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D
